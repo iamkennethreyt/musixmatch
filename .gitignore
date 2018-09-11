@@ -5,9 +5,10 @@
 
 # testing
 /coverage
-README.md
 # production
 /build
+
+README.md
 
 # misc
 .DS_Store
